@@ -1,0 +1,11 @@
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\bin\Debug\net5.0\OdontoCitas.Domain.deps.json
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\bin\Debug\net5.0\OdontoCitas.Domain.dll
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\bin\Debug\net5.0\ref\OdontoCitas.Domain.dll
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\bin\Debug\net5.0\OdontoCitas.Domain.pdb
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\obj\Debug\net5.0\OdontoCitas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\obj\Debug\net5.0\OdontoCitas.Domain.AssemblyInfoInputs.cache
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\obj\Debug\net5.0\OdontoCitas.Domain.AssemblyInfo.cs
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\obj\Debug\net5.0\OdontoCitas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\obj\Debug\net5.0\OdontoCitas.Domain.dll
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\obj\Debug\net5.0\ref\OdontoCitas.Domain.dll
+C:\Users\emerson.quinchia\Desktop\Ejemplo .Net\OdontoCitas\OdontoCitas.Domain\obj\Debug\net5.0\OdontoCitas.Domain.pdb
